@@ -1,6 +1,11 @@
+using Absoluta.Pagamentos.DataAccess;
+using Absoluta.Pagamentos.Extensions;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.RegisterDependencies();
+builder.Services.AddDbContext<AbsolutaContext>();
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

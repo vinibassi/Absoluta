@@ -1,0 +1,12 @@
+C:\Users\vinic\source\repos\Absoluta\Absoluta.Pagamentos.Domain\bin\Debug\net6.0\Absoluta.Pagamentos.Domain.deps.json
+C:\Users\vinic\source\repos\Absoluta\Absoluta.Pagamentos.Domain\bin\Debug\net6.0\Absoluta.Pagamentos.Domain.dll
+C:\Users\vinic\source\repos\Absoluta\Absoluta.Pagamentos.Domain\bin\Debug\net6.0\Absoluta.Pagamentos.Domain.pdb
+C:\Users\vinic\source\repos\Absoluta\Absoluta.Pagamentos.Domain\obj\Debug\net6.0\Absoluta.Pagamentos.Domain.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\Absoluta\Absoluta.Pagamentos.Domain\obj\Debug\net6.0\Absoluta.Pagamentos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\Absoluta\Absoluta.Pagamentos.Domain\obj\Debug\net6.0\Absoluta.Pagamentos.Domain.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\Absoluta\Absoluta.Pagamentos.Domain\obj\Debug\net6.0\Absoluta.Pagamentos.Domain.AssemblyInfo.cs
+C:\Users\vinic\source\repos\Absoluta\Absoluta.Pagamentos.Domain\obj\Debug\net6.0\Absoluta.Pagamentos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\Absoluta\Absoluta.Pagamentos.Domain\obj\Debug\net6.0\Absoluta.Pagamentos.Domain.dll
+C:\Users\vinic\source\repos\Absoluta\Absoluta.Pagamentos.Domain\obj\Debug\net6.0\refint\Absoluta.Pagamentos.Domain.dll
+C:\Users\vinic\source\repos\Absoluta\Absoluta.Pagamentos.Domain\obj\Debug\net6.0\Absoluta.Pagamentos.Domain.pdb
+C:\Users\vinic\source\repos\Absoluta\Absoluta.Pagamentos.Domain\obj\Debug\net6.0\ref\Absoluta.Pagamentos.Domain.dll

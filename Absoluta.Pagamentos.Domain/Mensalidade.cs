@@ -1,4 +1,6 @@
-﻿namespace Absoluta.Pagamentos.Domain;
+﻿using Absoluta.Pagamentos.Domain.Enums;
+
+namespace Absoluta.Pagamentos.Domain;
 
 public class Mensalidade
 {

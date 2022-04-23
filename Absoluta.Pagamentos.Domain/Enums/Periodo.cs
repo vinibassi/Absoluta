@@ -1,4 +1,4 @@
-﻿namespace Absoluta.Pagamentos.Domain
+﻿namespace Absoluta.Pagamentos.Domain.Enums
 {
     public enum Periodo
     {

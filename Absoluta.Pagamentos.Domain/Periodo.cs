@@ -1,6 +1,9 @@
 ﻿namespace Absoluta.Pagamentos.Domain
 {
-    public class Periodo
+    public enum Periodo
     {
+        Manha = 0,
+        Tarde = 1,
+        Noite =2
     }
 }

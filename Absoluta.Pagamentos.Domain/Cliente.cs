@@ -21,10 +21,11 @@ public class Cliente
     public bool EhMenor { get; set; }
     public bool EhPgtoEspecial { get; set; }
     public string? NomeDosPais { get; set; }
-    public string Observação { get; set; }
+    public string? Observação { get; set; }
 
     public void AlterarPeriodo(Periodo novoPeriodo) => Periodo = novoPeriodo;
     public void AlterarDestino(Destino novoDestino) => Destino = novoDestino;
+    public void TornarMaiorDeIdade() => EhMenor = false;
     public void TornarPagamentoEspecial() => EhPgtoEspecial = true;
     public void AdicionarMensalidade(Mensalidade mensalidade) => Mensalidades.Add(mensalidade);
 }

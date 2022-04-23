@@ -2,7 +2,7 @@
 
 namespace Absoluta.Pagamentos.Domain;
 
-public class Cliente
+public class Cliente : IEntidade
 {
     public Cliente(string nome, Periodo periodo, Destino destino, bool ehMenor, string? nomeDosPais = null)
     {
@@ -14,6 +14,8 @@ public class Cliente
 
         Mensalidades = new List<Mensalidade>();
     }
+
+    public int Id { get; set; }
 
     public Periodo Periodo { get; private set; }
     public Destino Destino { get; private set; }

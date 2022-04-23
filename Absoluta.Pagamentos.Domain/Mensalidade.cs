@@ -2,7 +2,7 @@
 
 namespace Absoluta.Pagamentos.Domain;
 
-public class Mensalidade
+public class Mensalidade : IEntidade
 {
     public Mensalidade(decimal valor, DateOnly dataDoVencimento)
     {
@@ -10,6 +10,8 @@ public class Mensalidade
         DataDoVencimento = dataDoVencimento;
         Status = StatusMensalidade.Pendente;
     }
+
+    public int Id { get; set; }
 
     public decimal Valor { get; private set; }
     public DateOnly DataDoVencimento { get; private set; }
